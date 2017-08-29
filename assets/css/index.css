@@ -1,0 +1,87 @@
+body {
+    background-image: url("../images/carbon-fiber.jpg");
+    background-color: #cccccc;
+}
+
+h1 {
+  color: #ee533c;
+  font-size: 40px;
+  padding: 20px 0 20px 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+h2 {
+  color: #ee533c;
+  font-size: 30px;
+  padding: 20px 0 30px 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.main {
+  background: #fff;
+  margin: 20px;
+}
+
+.connect {
+  background: #fff;
+  margin: 20px;
+  width: 300px;
+  margin-bottom: 150px;
+}
+
+.portrait {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.icons {
+  margin: 10px 0 10px 15px;
+}
+
+.social {
+  width: 30%;
+  padding: 5px;
+}
+
+.footer {
+  background-color: #ccc;
+  width: 100%;
+  text-align: center;
+  border-top: 3px solid #ee533c;
+}
+
+.copyright {
+  text-align: center;
+}
+
+#image1 {
+ width: 60%;
+ vertical-align: center;
+}
+
+
+@media screen and (max-width: 980px) {
+  
+@media screen and (max-width: 768px) {
+ 
+@media screen and (max-width: 640px) {
+ 
+}
+
+
+
+
+
+
