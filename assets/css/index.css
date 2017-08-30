@@ -68,8 +68,10 @@ p {
 
 #image1 {
  width: 60%;
- vertical-align: center;
+ margin: 20px 0 40px 225px;
 }
+
+
 
 
 @media screen and (max-width: 980px) {
